@@ -1,0 +1,33 @@
+{
+  "id": "/wedding-beverage-calculator/",
+  "name": "Wedding Beverage Calculator",
+  "short_name": "Wedding Drinks",
+  "description": "Calculate wedding beverage quantities, package counts, and estimated costs.",
+  "start_url": "/wedding-beverage-calculator/",
+  "scope": "/wedding-beverage-calculator/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbfaf7",
+  "theme_color": "#71815c",
+  "categories": ["lifestyle", "utilities", "planning"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./maskable-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

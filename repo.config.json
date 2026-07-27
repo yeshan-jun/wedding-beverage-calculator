@@ -1,0 +1,20 @@
+{
+  "repo_name": "wedding-beverage-calculator",
+  "description": "Calculate wedding beer, wine, liquor, champagne, water, soft drinks, package quantities, and estimated beverage costs.",
+  "visibility": "public",
+  "homepage": "https://yeshan-jun.github.io/wedding-beverage-calculator/",
+  "topics": [
+    "wedding-beverage-calculator",
+    "wedding-alcohol-calculator",
+    "wedding-drink-calculator",
+    "wedding-planning-tool",
+    "byob-wedding",
+    "beverage-shopping-list",
+    "pwa-calculator",
+    "github-pages"
+  ],
+  "default_branch": "main",
+  "create_readme": false,
+  "source_stack": "HTML + CSS + JavaScript",
+  "pages_stack": "Static HTML/CSS/JS built with a zero-dependency Node.js build script"
+}
